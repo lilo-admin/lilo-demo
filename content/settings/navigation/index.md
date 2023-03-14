@@ -8,12 +8,4 @@ url = "/"
 [[link]]
 title = "About me"
 url = "/about/"
-
-[[link]]
-title = "Gym Kirchenfeld"
-url = "https://www.gymkirchenfeld.ch"
-
-[[link]]
-title = "Lernpfad"
-url = "/lernpfad/"
 +++
