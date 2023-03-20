@@ -15,3 +15,11 @@ Die Woche begann mit frühlingshaften Temperaturen - teils sogar im Rekordbereic
 > Vielen Dank für alle tollen SRFMeteo-Videos. Weitere Videos der letzten Woche finden Sie in der Videogalerie.
 
 Weitere Videos der Woche
+
+{{<box>}}
+
+Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.
+
+Die Woche begann mit frühlingshaften Temperaturen - teils sogar im Rekordbereich. Eine Kaltfront, eingefangen von Lukas Wyss, unterbrach diese Frühlingsgefühle vorläufig. Wir gratulieren zum Wettervideo der Woche.
+
+{{</box>}}
