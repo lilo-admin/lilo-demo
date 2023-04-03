@@ -29,3 +29,5 @@ Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.
 In den Abendstunden klart der Himmel schließlich vollständig auf, und die Temperaturen erholen sich auf angenehme 15 Grad Celsius. Ein laues Lüftchen weht, während die letzten Sonnenstrahlen des Tages die Landschaft in warmen, goldenen Tönen erstrahlen lassen.
 
 Insgesamt bietet das heutige Wetter ein beeindruckendes Zusammenspiel verschiedenster Wetter
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CaTwmVx75xI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
