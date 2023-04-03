@@ -8,7 +8,7 @@ description = "Das Wetter heute ist bla bla..."
 +++
 ![](blogbild2.jpg)
 
-Heute, am 3. April 2023, erwartet uns ein wirklich einzigartiges Wetterphänomen. Nach einem wolkenverhangenen Morgen, bei dem die Temperaturen um milde 12 Grad Celsius lagen, wird es am Nachmittag zu einer bemerkenswerten Wetterveränderung kommen.
+Heute, am 3. April 2023, erwartet uns ein wirklich einzigartiges Wetterphänomen. Nach einem wolkenverhangenen Morgen, bei dem die Temperaturen um milde 12 Grad Celsius lagen, wird es am Nachmittag zu einer [bemerkenswerten Wetterveränderung](https://www.google.com) kommen.
 
 ## Temperatur im Tagesverlauf
 
