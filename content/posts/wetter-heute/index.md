@@ -6,6 +6,8 @@ pinned = false
 image = "blogbild2.jpg"
 description = "Das Wetter heute ist bla bla..."
 +++
+![](blogbild2.jpg)
+
 Heute, am 3. April 2023, erwartet uns ein wirklich einzigartiges Wetterphänomen. Nach einem wolkenverhangenen Morgen, bei dem die Temperaturen um milde 12 Grad Celsius lagen, wird es am Nachmittag zu einer bemerkenswerten Wetterveränderung kommen.
 
 Gegen 14 Uhr ziehen von Westen her dunkle Wolken auf, die sich rasant über den gesamten Himmel ausbreiten. Mit einer Windgeschwindigkeit von bis zu 50 km/h entwickelt sich ein Sturm, der die Bewohner dazu veranlasst, ihre Aktivitäten im Freien einzuschränken. Die Temperaturen sinken auf etwa 8 Grad Celsius ab, und die Luftfeuchtigkeit steigt sprunghaft an. Dies führt dazu, dass der einsetzende Regen sich schnell zu einem wahren Wolkenbruch entwickelt.
