@@ -3,6 +3,7 @@ title = "Europas Fussballkultur"
 date = "2023-04-06"
 draft = false
 pinned = false
+image = "blogbild.jpg"
 +++
 Kennt man jedoch das Engagement des chinesischen Unternehmenskonglomerats Fosun bei GC, überraschte die Ausleihe von Linyan Zhang von Wuhan Jiangda zu den Zürcherinnen nicht. In Niederhasli will die 22-Jährige sich an Europa gewöhnen, wie sie damals sagte: «Ich werde diese Gelegenheit nutzen, um mich durch harte Arbeit zu verbessern und die europäische Fussballkultur voll und ganz zu erleben.»
 
