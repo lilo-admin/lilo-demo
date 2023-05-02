@@ -16,6 +16,8 @@ Im Laufe des Vormittags ziehen jedoch einige Wolken auf, die den Himmel bedecken
 
 Gegen Mittag wird sich das Wetter erneut ändern und es wird regnerisch werden. Es wird empfohlen, Regenschirme oder wetterfeste Kleidung mitzubringen, wenn Sie planen, draußen zu sein. Die Regenfälle werden bis zum späten Nachmittag anhalten und es wird in der Folge merklich kühler werden. Die Temperaturen fallen auf etwa 10 Grad Celsius zurück.
 
+![](wind-klein.jpg)
+
 Am Abend werden die Regenwolken allmählich abziehen und der Himmel wird sich wieder aufklären. Es wird jedoch deutlich kälter werden und die Temperaturen werden auf etwa 6 Grad Celsius fallen. Eine leichte Brise wird aus nördlicher Richtung wehen.
 
 Das war der Wetterbericht für morgen. Bitte bleiben Sie auf dem Laufenden und passen Sie Ihre Aktivitäten entsprechend an. Wir wünschen Ihnen einen angenehmen Tag!
